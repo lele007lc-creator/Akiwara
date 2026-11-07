@@ -45,8 +45,11 @@
     {"id":{"name":"fnt_letras","path":"fonts/fnt_letras/fnt_letras.yy",},},
     {"id":{"name":"fnt_subtitulo","path":"fonts/fnt_subtitulo/fnt_subtitulo.yy",},},
     {"id":{"name":"fnt_txt","path":"fonts/fnt_txt/fnt_txt.yy",},},
+    {"id":{"name":"obj__botao_menor","path":"objects/obj__botao_menor/obj__botao_menor.yy",},},
+    {"id":{"name":"obj_botao_acertou","path":"objects/obj_botao_acertou/obj_botao_acertou.yy",},},
     {"id":{"name":"obj_botao_avancar","path":"objects/obj_botao_avancar/obj_botao_avancar.yy",},},
     {"id":{"name":"obj_botao_jogar","path":"objects/obj_botao_jogar/obj_botao_jogar.yy",},},
+    {"id":{"name":"obj_botao_maior","path":"objects/obj_botao_maior/obj_botao_maior.yy",},},
     {"id":{"name":"obj_botao_pai","path":"objects/obj_botao_pai/obj_botao_pai.yy",},},
     {"id":{"name":"obj_dialogo","path":"objects/obj_dialogo/obj_dialogo.yy",},},
     {"id":{"name":"obj_genio","path":"objects/obj_genio/obj_genio.yy",},},
@@ -76,8 +79,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"rm_jogo","path":"rooms/rm_jogo/rm_jogo.yy",},},
     {"roomId":{"name":"rm_inicio","path":"rooms/rm_inicio/rm_inicio.yy",},},
+    {"roomId":{"name":"rm_jogo","path":"rooms/rm_jogo/rm_jogo.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

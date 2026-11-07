@@ -10,6 +10,6 @@ escala_y = image_yscale;
 acao = function()
 {
     
-    //faz algo
+  //ação;
     
 }

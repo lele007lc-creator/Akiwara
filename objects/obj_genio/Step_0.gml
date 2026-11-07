@@ -9,11 +9,23 @@ y = ystart - (_tamanho * _valor);
 
 caixa.y = y + margem_y;
 
-    
+//testando o dialogo    
 if (keyboard_check_pressed(vk_space))
 {
     
     avanca_dialogo();
 }
     
+//testando o menor
+if (keyboard_check_pressed(vk_down))
+{
+    
+    menor();
+}
+    
+//testando o maior
+if (keyboard_check_pressed(vk_up))
+{
+    maior();
+}
     
